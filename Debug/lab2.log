@@ -1,0 +1,6 @@
+﻿  lab2.cpp
+C:\Users\PC\Desktop\sem4\Prog_w_srodowisku_graficznym\lab_WinApi\lab2\lab2.cpp(277,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\PC\Desktop\sem4\Prog_w_srodowisku_graficznym\lab_WinApi\lab2\lab2.cpp(238,11): warning C4101: "buf": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\PC\Desktop\sem4\Prog_w_srodowisku_graficznym\lab_WinApi\lab2\lab2.cpp(842,9): warning C4065: instrukcja switch zawiera etykietę "default" ale nie zawiera etykiet "case"
+C:\Users\PC\Desktop\sem4\Prog_w_srodowisku_graficznym\lab_WinApi\lab2\lab2.cpp(823,11): warning C4101: "buf": lokalna zmienna, do której nie istnieje odwołanie
+  lab2.vcxproj -> C:\Users\PC\Desktop\sem4\Prog_w_srodowisku_graficznym\lab_WinApi\lab2\Debug\lab2.exe

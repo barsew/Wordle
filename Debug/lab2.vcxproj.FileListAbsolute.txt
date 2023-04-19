@@ -1,0 +1,2 @@
+h:\Windows7\Desktop\lab2\Debug\lab2.exe
+C:\Users\PC\Desktop\sem4\Prog_w_srodowisku_graficznym\lab_WinApi\lab2\Debug\lab2.exe
